@@ -16,3 +16,11 @@ int main(){
 	
 	dombaGarut.warnaBulu = "Putih, Hitam, Cokelat ";
 	dombaBatur.warnaBulu = "Putih ";
+	
+	cout <<"Domba Garut berwarna " <<(dombaGarut.warnaBulu);
+	cout <<"Domba Garut bobotnya mencapai " <<(dombaGarut.bobot)<<endl;
+	
+	cout <<"Domba Batur berwarna " <<(dombaBatur.warnaBulu);
+	cout <<"Domba Batur bobotnya mencapai " <<(dombaBatur.bobot);
+}
+
